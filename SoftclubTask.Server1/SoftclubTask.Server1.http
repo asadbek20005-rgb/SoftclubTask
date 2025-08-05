@@ -1,0 +1,6 @@
+@SoftclubTask.Server1_HostAddress = http://localhost:5186
+
+GET {{SoftclubTask.Server1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
